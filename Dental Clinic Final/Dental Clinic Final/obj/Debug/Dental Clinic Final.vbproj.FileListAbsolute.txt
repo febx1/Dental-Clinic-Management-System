@@ -1,0 +1,27 @@
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental Clinic Final.vbprojAssemblyReference.cache
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental_Clinic_Final.login.resources
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental_Clinic_Final.Resources.resources
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental_Clinic_Final.Patient.resources
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental Clinic Final.vbproj.GenerateResource.cache
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental Clinic Final.vbproj.CoreCompileInputs.cache
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\bin\Debug\dentalclinic.mdf
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\bin\Debug\dentalclinic_log.ldf
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental_Clinic_Final.Treatment.resources
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental_Clinic_Final.Appointment.resources
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental_Clinic_Final.Billing.resources
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental_Clinic_Final.Dashboard.resources
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental_Clinic_Final.main.resources
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental_Clinic_Final.useradd.resources
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental_Clinic_Final.userpanel.resources
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\bin\Debug\Dental Clinic.exe.config
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\bin\Debug\Dental Clinic.exe.manifest
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\bin\Debug\Dental Clinic.application
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\bin\Debug\Dental Clinic.exe
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\bin\Debug\Dental Clinic.pdb
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\bin\Debug\Dental Clinic.xml
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental Clinic.exe.manifest
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental Clinic.application
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental Clinic.exe
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental Clinic.xml
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental Clinic.pdb
+C:\Users\rud\source\repos\Dental Clinic Final\Dental Clinic Final\obj\Debug\Dental_Clinic_Final.admindtv.resources
